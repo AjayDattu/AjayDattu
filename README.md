@@ -18,7 +18,7 @@ Currently, I'm diving deep into CS. Join me in exploring the uncharted territori
 I believe in the power of collaboration and the beauty of shared knowledge. Feel free to reach out if you're tinkering with similar tech or if you just want to geek out over the latest advancements.
 
 📫 **Get in Touch**
-You can catch me on dattuajay005@gamil.com for tech insights, quirky thoughts, and maybe a cat meme or two. Don't hesitate to drop a message—I don't bite!
+You can catch me on www.linkedin.com/in/ajaydattu005 for tech insights, quirky thoughts, and maybe a cat meme or two. Don't hesitate to drop a message—I don't bite!
 
 Thanks for dropping by, and remember, the best code is yet to be written. So, let's embrace the bugs, celebrate the breakthroughs, and code on!
 
