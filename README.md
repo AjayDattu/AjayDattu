@@ -1,25 +1,30 @@
-👋 Welcome to My GitHub Profile! 👨‍💻
+<h1 align="center">Hi 👋, I'm Dattu Ajay</h1>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
-Hello there, fellow curious mind! I'm thrilled to have you explore my little corner of the coding universe. Here's a sneak peek into what you'll find here:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydattu&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydattu" /> </p>
 
-🌟 **Who Am I?**
-I'm not just lines of code, I'm a creator, a problem solver, and a lifelong learner. By day, I'm a Student, but by night, I'm a code magician who turns caffeine into software.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🚀 **What Do I Do?**
-My repositories are a mix of innovative experiments, useful tools, and passion projects. From AI-driven applications to efficient algorithms, I love crafting solutions that make a difference.
+- 🔭 I’m currently working on **Piclingo**
 
-📚 **Learning in Public**
-GitHub is my playground for learning and growing. You'll witness my journey, including the "aha" moments and the not-so-graceful debugging sessions. Learning is more fun when it's shared!
+- 🌱 I’m currently learning **Next.js**
 
-🔍 **Current Fascinations**
-Currently, I'm diving deep into CS. Join me in exploring the uncharted territories of and let's build something awesome together!
+- 👨‍💻 All of my projects are available at [https://ajaydattu.netlify.app/](https://ajaydattu.netlify.app/)
 
-🤝 **Let's Connect**
-I believe in the power of collaboration and the beauty of shared knowledge. Feel free to reach out if you're tinkering with similar tech or if you just want to geek out over the latest advancements.
+- 💬 Ask me about **MERN,PyQt,JavaFX**
 
-📫 **Get in Touch**
-You can catch me on www.linkedin.com/in/ajaydattu005 for tech insights, quirky thoughts, and maybe a cat meme or two. Don't hesitate to drop a message—I don't bite!
+- 📫 How to reach me **dattuajay005@gmail.com**
 
-Thanks for dropping by, and remember, the best code is yet to be written. So, let's embrace the bugs, celebrate the breakthroughs, and code on!
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SIIUBJ2ys_bNGFvvkFzEOht7obd1hGuk/view?usp=sharing](https://drive.google.com/file/d/1SIIUBJ2ys_bNGFvvkFzEOht7obd1hGuk/view?usp=sharing)
 
-Happy coding! 😄🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ajaydattu005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaydattu005" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dsa_withjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dsa_withjay" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/dattuajay005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dattuajay005/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaydattu&" alt="ajaydattu" /></p>
