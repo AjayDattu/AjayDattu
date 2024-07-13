@@ -30,8 +30,7 @@
   <a href="https://ajaydattu.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://www.youtube.com/@dsa_withjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dsa_withjay" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dattuajay005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dattuajay005/" height="30" width="40" /></a>
+
 </div>
 
 <hr/>
@@ -41,6 +40,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+      <a href="https://www.youtube.com/@dsa_withjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dsa_withjay" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/dattuajay005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dattuajay005/" height="30" width="40" /></a>
 </div>
 
 <br/>
