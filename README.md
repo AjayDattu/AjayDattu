@@ -5,7 +5,6 @@
 </h1>
 <h2 align="center">Leetcode Stats:<h2>
 
-
   
 <p align="center ">
   <a href="https://leetcode.com/u/dattuajay005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
