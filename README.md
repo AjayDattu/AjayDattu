@@ -3,11 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dattu+Ajay!;" />
 </h1>
-<h2 align="center">Leetcode Stats:<h2>  
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dattuajay005?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
 
 <h3 align="center">A passionate Fullstack Developer from India 🇮🇳</h3>
@@ -49,6 +44,11 @@
 
 <br/>
 <hr/>
+<h2 align="center">Leetcode Stats:<h2>  
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dattuajay005?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
