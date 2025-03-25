@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently Developing **Ocean**
+ 🔭 I’m currently Developing **Memoa**
  
  🌱 I’m currently learning **Next.js**
 
@@ -40,37 +40,4 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
      
 </div>
-
-<br/>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ajaydattu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ajaydattu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaydattu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<h2 align="center">Leetcode Stats:<h2>  
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dattuajay005?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
- <a href="https://www.youtube.com/@dsa_withjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dsa_withjay" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dattuajay005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dattuajay005/" height="30" width="40" /></a>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaydattu&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydattu" />
-</p>
 
