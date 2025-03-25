@@ -13,7 +13,7 @@
 
 I'm a passionate Fullstack Developer from India with expertise in building modern web applications. Currently focused on developing **Memoa** while expanding my skills in Next.js.
 
-- 🔭 **Current Project:** Building Memoa - [Describe briefly what Memoa is]
+- 🔭 **Current Project:** Building Memoa
 - 🌱 **Learning:** Next.js, advanced React patterns
 - 💬 **Ask me about:** MERN stack, PyQt, JavaFX, or any web development topics
 - 📫 **How to reach me:** dattuajay005@gmail.com
@@ -48,28 +48,9 @@ I'm a passionate Fullstack Developer from India with expertise in building moder
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ajaydattu&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaydattu&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaydattu&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajaydattu&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📝 Latest Blog Posts
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourusername) [Add links to your articles if you have any]
-
-1. [Article Title 1](link)
-2. [Article Title 2](link)
 
 ---
 
@@ -78,5 +59,4 @@ I'm a passionate Fullstack Developer from India with expertise in building moder
 I'm always open to interesting projects and collaborations. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaydattu005)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ajaydattu.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ajaydattu005.netlify.app/)
