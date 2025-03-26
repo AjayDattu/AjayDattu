@@ -48,12 +48,6 @@ I'm a passionate Fullstack Developer from India with expertise in building moder
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajaydattu&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
