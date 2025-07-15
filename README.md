@@ -13,14 +13,14 @@
 
 I'm a Fullstack Developer from India with expertise in building modern web applications. Currently focused on developing **Memoa** while expanding my skills in Next.js.
 
-- 🔭 **Current Project:** Building Surya
-- 🌱 **Learning:** Next.js, advanced React patterns
-- 💬 **Ask me about:** MERN stack, PyQt, JavaFX, or any web development topics
-- 📫 **How to reach me:** dattuajay005@gmail.com
+-  **Current Project:** Building Memoa
+- **Learning:** Blockchain, advanced Next.js patterns
+- **Ask me about:** MERN stack, PyQt, JavaFX, or any web development topics
+- **How to reach me:** dattuajay005@gmail.com
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
