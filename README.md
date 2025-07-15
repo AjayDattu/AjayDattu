@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Fullstack Developer from India with expertise in building modern web applications. Currently focused on developing **Memoa** while expanding my skills in Next.js.
 
