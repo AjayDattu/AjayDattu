@@ -1,5 +1,3 @@
-![Header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
-
 ---
 ## About Me
 
@@ -25,10 +23,3 @@ Databases: MongoDB, MySQL, Firebase, Supabase
 Tools & Services: Git, VS Code, Figma, Stripe API, Postman  
 
 ---
-
-## Connect with Me
-
-Portfolio: [Link](https://ajaydattu.netlify.app)  
-LinkedIn: [Link](https://linkedin.com/in/ajaydattu005)  
-GitHub: [Link](https://github.com/ajaydattu)  
-Email: [Link](mailto:dattuajay005@gmail.com)
