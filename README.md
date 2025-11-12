@@ -1,4 +1,3 @@
----
 ## About Me
 
 I'm Dattu Ajay, a Fullstack Developer from India with a strong passion for building modern and scalable web applications.  
