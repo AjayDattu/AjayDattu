@@ -1,9 +1,6 @@
-# Hi there, I'm Dattu Ajay
-
 ![Header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
 ---
-
 ## About Me
 
 I'm Dattu Ajay, a Fullstack Developer from India with a strong passion for building modern and scalable web applications.  
