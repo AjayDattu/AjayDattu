@@ -1,24 +1,3 @@
 ## About Me
 
-I'm Dattu Ajay, a Fullstack Developer from India with a strong passion for building modern and scalable web applications.  
-I focus on creating reliable, high-performance systems with clean design and intuitive user experiences.  
-
-Currently, I am working on **Memoa**, a productivity-focused platform.  
-My learning journey includes exploring **Supabase**, **Stripe payment gateways**, and **React Native** for mobile application development.  
-I enjoy solving real-world problems, optimizing backend performance, and experimenting with advanced Next.js features.
-
-- Current Project: Memoa  
-- Learning: Supabase, Stripe Integrations, and Advanced Next.js patterns  
-- Areas of Expertise: MERN Stack, PyQt, JavaFX, REST APIs, and Fullstack Web Development  
-- Contact: dattuajay005@gmail.com  
-
----
-
-## Tech Stack
-
-Frontend: React, Next.js, React Native, TypeScript, Tailwind CSS, Material-UI, Bootstrap  
-Backend: Node.js, Express.js, Python, Flask  
-Databases: MongoDB, MySQL, Firebase, Supabase  
-Tools & Services: Git, VS Code, Figma, Stripe API, Postman  
-
----
+I'm **Dattu Ajay**, a Fullstack Developer from India passionate about building scalable, high-performance web applications with clean architecture and intuitive user experiences. I work across modern frontend technologies such as React, Next.js, TypeScript, Tailwind CSS, Material-UI, Bootstrap, and React Native, and I specialize in building reliable fullstack systems using Node.js, Express.js, Python, and Flask. My database experience includes MongoDB, MySQL, Firebase, and Supabase, and I actively work with cloud platforms like AWS (S3, Lambda, Rekognition, EC2). I also integrate secure payment systems using **Stripe** and **PayPal**, and build production-grade features with strong attention to performance and user experience. Currently, I’m developing **Memoa**, a productivity-focused platform, while expanding my skills in Supabase, AWS workflows, and scalable payment integrations.
