@@ -5,6 +5,5 @@ I work across the stack with React, Next.js, TypeScript, Tailwind CSS, Material 
 Experienced with MongoDB, MySQL, Firebase, and Supabase, deploying cloud-native solutions on AWS (S3, Lambda, EC2, Rekognition), and integrating payments using Stripe and PayPal.
 Currently building Memoa and focused on clean architecture, performance, and shipping real features.
 
-*What I do:*
-
+**What I do:**
 *From idea → code → cloud → users.*
